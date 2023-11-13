@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "/LC0QYPslhQz+IeBFA4dDUmjrkCNyfkwoHzkOz8OOHLrTVYasdLeWpJj9A5graqBzZ6yLH7oemdzTjtQWFGYAg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Gustavo Alonso\\Desktop\\UAT\\Segundo semestre\\Programacion basica\\ProyectosVS\\Examen_SegundoParcial\\Examen_SegundoParcial.vbproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "No se puede leer la información del proyecto de \"Examen_SegundoParcial\": Identificador de marco de trabajo no válido \"\"."
+    }
+  ]
+}

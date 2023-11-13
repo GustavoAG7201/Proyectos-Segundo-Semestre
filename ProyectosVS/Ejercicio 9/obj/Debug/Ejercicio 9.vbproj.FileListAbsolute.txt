@@ -1,0 +1,12 @@
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\bin\Debug\Ejercicio 9.exe.config
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\bin\Debug\Ejercicio 9.exe
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\bin\Debug\Ejercicio 9.pdb
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\bin\Debug\Ejercicio 9.xml
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio 9.vbproj.AssemblyReference.cache
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio_9.Form1.resources
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio_9.Resources.resources
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio 9.vbproj.GenerateResource.cache
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio 9.vbproj.CoreCompileInputs.cache
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio 9.exe
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio 9.xml
+C:\Users\Gustavo Alonso\Desktop\UAT\Segundo semestre\Programacion basica\ProyectosVS\Ejercicio 9\obj\Debug\Ejercicio 9.pdb

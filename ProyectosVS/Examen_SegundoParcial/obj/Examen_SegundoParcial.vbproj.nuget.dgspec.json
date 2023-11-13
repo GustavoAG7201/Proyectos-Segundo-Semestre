@@ -1,0 +1,29 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Gustavo Alonso\\Desktop\\UAT\\Segundo semestre\\Programacion basica\\ProyectosVS\\Examen_SegundoParcial\\Examen_SegundoParcial.vbproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Gustavo Alonso\\Desktop\\UAT\\Segundo semestre\\Programacion basica\\ProyectosVS\\Examen_SegundoParcial\\Examen_SegundoParcial.vbproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Gustavo Alonso\\Desktop\\UAT\\Segundo semestre\\Programacion basica\\ProyectosVS\\Examen_SegundoParcial\\Examen_SegundoParcial.vbproj",
+        "projectPath": "C:\\Users\\Gustavo Alonso\\Desktop\\UAT\\Segundo semestre\\Programacion basica\\ProyectosVS\\Examen_SegundoParcial\\Examen_SegundoParcial.vbproj",
+        "packagesPath": "C:\\Users\\Gustavo Alonso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Gustavo Alonso\\Desktop\\UAT\\Segundo semestre\\Programacion basica\\ProyectosVS\\Examen_SegundoParcial\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Gustavo Alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      }
+    }
+  }
+}
